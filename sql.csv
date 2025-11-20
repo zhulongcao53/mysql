@@ -1,3 +1,4 @@
-﻿用户名,密码,到期日
-xxxx1,123456,20251231
-xxxx2,123456,20261231
+﻿username,password,expiry_date
+admin,admin123,2024-12-31
+user,user123,2024-06-30
+test,test123,2023-12-31
